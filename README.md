@@ -1,5 +1,6 @@
-# SpringBoot and AngularMaterial Design
-This project demonstrates the usage of Spring Boot and  Angular 7 material design with a sample application.
+# SpringBoot and Angular
+
+This project demonstrates the usage of Spring Boot and  Angular 7 with a sample application.
 
 In this Donor application, blood donor information is managed through four basic operations. It facilitates:
 
